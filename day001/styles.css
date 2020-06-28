@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=MuseoModerno:wght@400;500;600&display=swap");
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  margin: 0 auto;
+  max-width: 85%;
+  height: 100%;
+  line-height: 1.5;
+  font-family: "Lato", sans-serif;
+  width: 100%;
+  padding: 0;
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.header {
+  font-size: 20px;
+  margin: 1.2em;
+}
+.name-head {
+  font-family: "MuseoModerno", cursive;
+  font-size: 72px;
+  margin-left: 15px;
+}
