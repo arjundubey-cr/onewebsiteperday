@@ -18,7 +18,13 @@ body {
   background-position: center;
   background-blend-mode: initial;
 }
-
+.header {
+  text-align: center;
+  font-size: 2em;
+}
+a:visited {
+  color: whitesmoke;
+}
 .heading {
   font-size: 72px;
   color: white;
